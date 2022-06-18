@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+h1 {
+  color: #A52A2A;
+  margin-top: 0;
+  font-family: 'Damion', cursive;
+}
+
+h2 {
+  color: #A52A2A;
+  font-weight: normal;
+}
+h3{
+  color: #A52A2A;
+}
+.top-container {
+  background-color: #4E8975;
+}
+
+
+
+.pro {
+  text-decoration: underline;
+}
+
+.ctop {
+  position: relative;
+  left: 250px;
+  padding-top: 50px;
+}
+
+.cbot {
+  position: absolute;
+  top: 200px;
+  left: 400px;
+}
+
+.myimage {
+  padding-top: 50px;
+}
+
+hr {
+
+  margin: 60px auto;
+  border-color: black;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 10%;
+  height: 1px;
+  text-align: center;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.foodim{
+  float: right;
+  margin-right: 30px;
+  width: 20%;
+}
+.skillsim{
+  float: left;
+  margin-right: 30px;
+
+}
+#jwd{
+  position: relative;
+  left: 130px;
+}
+.btn{
+  position: relative;
+  top: 30px;
+  background-color: #4E8975;
+  border-radius: 8px;
+  color: white;
+  padding: 15px;
+}
+.contact-me{
+  margin: 100PX;
+
+}
+.bottom-container{
+  background-color: #4E8975;
+  padding-bottom: 50px;
+
+}
+.footer-link{
+  padding: 50px;
+  position: relative;
+  top: 40px;
+}
+#since{
+  position: relative;
+  top: 50px;
+}
